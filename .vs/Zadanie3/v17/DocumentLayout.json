@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|c:\\studying\\pjatk, studja\\semestr6\\apbd\\zadanie3\\zadanie3\\zadanie3\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|solutionrelative:zadanie3\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|c:\\studying\\pjatk, studja\\semestr6\\apbd\\zadanie3\\zadanie3\\zadanie3\\model\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|solutionrelative:zadanie3\\model\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|c:\\studying\\pjatk, studja\\semestr6\\apbd\\zadanie3\\zadanie3\\zadanie3\\repositories\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|solutionrelative:zadanie3\\repositories\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|c:\\studying\\pjatk, studja\\semestr6\\apbd\\zadanie3\\zadanie3\\zadanie3\\repositories\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|solutionrelative:zadanie3\\repositories\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|c:\\studying\\pjatk, studja\\semestr6\\apbd\\zadanie3\\zadanie3\\zadanie3\\services\\animalsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|solutionrelative:zadanie3\\services\\animalsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|c:\\studying\\pjatk, studja\\semestr6\\apbd\\zadanie3\\zadanie3\\zadanie3\\services\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|solutionrelative:zadanie3\\services\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|c:\\studying\\pjatk, studja\\semestr6\\apbd\\zadanie3\\zadanie3\\zadanie3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|solutionrelative:zadanie3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|c:\\studying\\pjatk, studja\\semestr6\\apbd\\zadanie3\\zadanie3\\zadanie3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|solutionrelative:zadanie3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|c:\\studying\\pjatk, studja\\semestr6\\apbd\\zadanie3\\zadanie3\\zadanie3\\zadanie3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4289544-0284-41FD-B2FC-659D985CAFF0}|Zadanie3\\Zadanie3.csproj|solutionrelative:zadanie3\\zadanie3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAnimalRepository.cs",
+              "DocumentMoniker": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Repositories\\IAnimalRepository.cs",
+              "RelativeDocumentMoniker": "Zadanie3\\Repositories\\IAnimalRepository.cs",
+              "ToolTip": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Repositories\\IAnimalRepository.cs",
+              "RelativeToolTip": "Zadanie3\\Repositories\\IAnimalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:25:23.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalRepository.cs",
+              "DocumentMoniker": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Repositories\\AnimalRepository.cs",
+              "RelativeDocumentMoniker": "Zadanie3\\Repositories\\AnimalRepository.cs",
+              "ToolTip": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Repositories\\AnimalRepository.cs",
+              "RelativeToolTip": "Zadanie3\\Repositories\\AnimalRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwFYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:22:43.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Zadanie3.csproj",
+              "DocumentMoniker": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Zadanie3.csproj",
+              "RelativeDocumentMoniker": "Zadanie3\\Zadanie3.csproj",
+              "ToolTip": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Zadanie3.csproj",
+              "RelativeToolTip": "Zadanie3\\Zadanie3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T15:20:32.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAnimalService.cs",
+              "DocumentMoniker": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Services\\IAnimalService.cs",
+              "RelativeDocumentMoniker": "Zadanie3\\Services\\IAnimalService.cs",
+              "ToolTip": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Services\\IAnimalService.cs",
+              "RelativeToolTip": "Zadanie3\\Services\\IAnimalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:26:16.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalsService.cs",
+              "DocumentMoniker": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Services\\AnimalsService.cs",
+              "RelativeDocumentMoniker": "Zadanie3\\Services\\AnimalsService.cs",
+              "ToolTip": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Services\\AnimalsService.cs",
+              "RelativeToolTip": "Zadanie3\\Services\\AnimalsService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:25:29.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\appsettings.json",
+              "RelativeDocumentMoniker": "Zadanie3\\appsettings.json",
+              "ToolTip": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\appsettings.json",
+              "RelativeToolTip": "Zadanie3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T13:20:53.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Controllers\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "Zadanie3\\Controllers\\AnimalsController.cs",
+              "ToolTip": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Controllers\\AnimalsController.cs",
+              "RelativeToolTip": "Zadanie3\\Controllers\\AnimalsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:28:46.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Model\\Animal.cs",
+              "RelativeDocumentMoniker": "Zadanie3\\Model\\Animal.cs",
+              "ToolTip": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Model\\Animal.cs",
+              "RelativeToolTip": "Zadanie3\\Model\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:24:09.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie3\\Program.cs",
+              "ToolTip": "C:\\Studying\\PJATK, STUDJA\\Semestr6\\APBD\\Zadanie3\\Zadanie3\\Zadanie3\\Program.cs",
+              "RelativeToolTip": "Zadanie3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:23:24.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
